@@ -1,1 +1,1 @@
-# sprints_chatbot_public
+# chatbot_public
